@@ -21,7 +21,7 @@ function showMessage(response) {
 
     // Update text content and hide name message
     document.getElementById("question").textContent =
-      "если ты нажмешь нет с тебя спишется 5к";
+      "тогда с тебя 10к, либо соглашайся";
     document.getElementById("name").style.display = "none";
 
     // Optional: You can also add a timeout to reset the position after a few seconds
